@@ -15,6 +15,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 >  Date   |      Topic      |                                    Reading                                             |
 > ------- | --------------  | -------------------------------------------------------------------------------------- |
 > Aug 30  | Introduction    | *Four Ethical Issues of the Information Age*, Richard O. Mason (MIS Quarterly - 3/86)  |
+> Sept 1  | Profession      | *Why Our Theories of Innovation Fail Us*, Peter Denning and Nicholas Dew (ACM - 12/15) <br /> *The Business of Professionals*, Mari Sako (ACM - 7/13) <br /> *The Whole Professional*, Peter J. Denning (ACM - 12/14) |
 
 
 
