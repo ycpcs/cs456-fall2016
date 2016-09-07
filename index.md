@@ -18,6 +18,7 @@ All information about the course will be posted here.
 ## News
 
 * **Aug 30** - Welcome back!
+* **Sept 6 - NO CLASS**
 
 
 

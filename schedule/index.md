@@ -16,7 +16,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > ------- | --------------  | -------------------------------------------------------------------------------------- |
 > Aug 30  | Introduction    | *Four Ethical Issues of the Information Age*, Richard O. Mason (MIS Quarterly - 3/86)  |
 > Sept 1  | Profession      | *Why Our Theories of Innovation Fail Us*, Peter Denning and Nicholas Dew (ACM - 12/15) <br /> *The Business of Professionals*, Mari Sako (ACM - 7/13) <br /> *The Whole Professional*, Peter J. Denning (ACM - 12/14) |
-> Sept 6  | Liability       | *Software Needs Seatbelts and Airbags*, Emery D. Berger (ACM - 9/12) <br /> *Responsible Programming*, Vinton G. Cerf (ACM - 7/14) <br /> *Responsible Programming Not a Technical Issue*, James Larus (ACM - 10/14) <br /> *Towards More Secure Software* Dorothy E. Denning (ACM - 4/15) |
+> Sept 8  | Liability       | *Software Needs Seatbelts and Airbags*, Emery D. Berger (ACM - 9/12) <br /> *Responsible Programming*, Vinton G. Cerf (ACM - 7/14) <br /> *Responsible Programming Not a Technical Issue*, James Larus (ACM - 10/14) <br /> *Towards More Secure Software* Dorothy E. Denning (ACM - 4/15) |
 
 
 
