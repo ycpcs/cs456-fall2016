@@ -18,6 +18,9 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Sept 1  | Profession      | *Why Our Theories of Innovation Fail Us*, Peter Denning and Nicholas Dew (ACM - 12/15) <br /> *The Business of Professionals*, Mari Sako (ACM - 7/13) <br /> *The Whole Professional*, Peter J. Denning (ACM - 12/14) |
 > Sept 8  | Liability       | *Software Needs Seatbelts and Airbags*, Emery D. Berger (ACM - 9/12) <br /> *Responsible Programming*, Vinton G. Cerf (ACM - 7/14) <br /> *Responsible Programming Not a Technical Issue*, James Larus (ACM - 10/14) <br /> *Towards More Secure Software* Dorothy E. Denning (ACM - 4/15) |
 > Sept 13 | IP - Copyrights | *Intellectual Property, Part I*, Gaff, Loren, and McCool (IEEE - 1/12) <br /> *Statutory Damages As a Threat to Innovation*, Pamela Samuelson (ACM - 7/13) <br /> *Copyrightability of Java APIs Revisited*, Pamela Samuelson (ACM - 3/15) |
+> Sept 15 | IP - Patents    | *Is Software Patentable?*, Pamela Samuelson (ACM - 11/13) <br /> *Why Do Software Startups Patent (or Not)?*, Pamela Samuelson (ACM - 11/10) <br/> *The Troll Under the Bridge*, Brian M. Gaff (IEEE - 7/13) <br /> *Software Patents Are Falling Down*, Pamela Samuelson (ACM - 11/15) |
+> Sept 20 |                 | **EXAM I Discussion** |
+> Sept 23 |                 | **EXAM I Due** |
 
 
 

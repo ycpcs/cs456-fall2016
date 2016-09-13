@@ -19,6 +19,8 @@ All information about the course will be posted here.
 
 * **Aug 30** - Welcome back!
 * **Sept 6 - NO CLASS**
+* **Sept 20** - Exam 1a Discussion
+* **Sept 23 - Exam 1a Due - 5pm**
 
 
 
