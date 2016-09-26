@@ -22,6 +22,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Sept 20 |                 | **EXAM I Discussion** |
 > Sept 23 |                 | **EXAM I Due** |
 > Sept 27 | Privacy - I     | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Privacy Behaviors After Snowden*, Soren Preibusch (ACM - 5/15) <br /> [Apple Fights Order to Unlock San Bernardino Gunman's Phone](http://www.nytimes.com/2016/02/18/technology/apple-timothy-cook-fbi-san-bernardino.html?_r=0) | 
+> Sept 29 | Privacy - II    | *A Right to Be Forgotten*, Lee A. Bygrave (ACM - 1/15) <br /> *Can You Engineer Privacy?*, Seda Gurses (ACM - 8/14) <br /> *Privacy Research Directions*, Carl Landwehr (ACM - 2/16) | 
 
 
 
