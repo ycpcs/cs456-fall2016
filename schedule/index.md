@@ -23,6 +23,18 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Sept 23 |                 | **EXAM I Due** |
 > Sept 27 | Privacy - I     | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Privacy Behaviors After Snowden*, Soren Preibusch (ACM - 5/15) <br /> [Apple Fights Order to Unlock San Bernardino Gunman's Phone](http://www.nytimes.com/2016/02/18/technology/apple-timothy-cook-fbi-san-bernardino.html?_r=0) | 
 > Sept 29 | Privacy - II    | *A Right to Be Forgotten*, Lee A. Bygrave (ACM - 1/15) <br /> *Can You Engineer Privacy?*, Seda Gurses (ACM - 8/14) <br /> *Privacy Research Directions*, Carl Landwehr (ACM - 2/16) | 
+> Oct 4   | Security - I    | *Security or Privacy? A Matter of Perspective*, George Hurlburt, Irena Bojanova, Ann Sobel, and Keesha Crosby (IEEE - 11/14) <br /> *Privacy and Security: Summing Up*, Susan Landau (ACM - 11/14) <br /> *Secure-System Designers Strive to Stem Data Leaks*, Chris Edwards (ACM - 4/15) |
+> Oct 6   | Security - II   | *Security Outlook: Six Cyber Game Changers for the Next 15 Years*, Alexander Kott, Ananthram Swami, and Patrick McDaniel (IEEE - 12/14) <br /> *Security Assurance*, Steven B. Lipner (ACM - 11/15) <br /> *I Can't Let You Do That, Dave*, Cory Doctorow (ACM - 12/15)|  
+> Oct 11  | Government      | [Big Brother? US linked to new wave of censorship, surveillance on web](http://www.foxnews.com/tech/2013/02/27/special-report-surveillance-and-censorship-america/) <br /> *Overt Censorship: A Fatal Mistake?*, Jean-Loup Richet (ACM - 8/13) <br /> *Moral Hazards, Negative Externalities, and the Surveillance Economy*, Hal Berghel (IEEE - 2/14)|  
+> Oct 13  | Internet        | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *Internet Use and Psychological Well-Being: Effects of Activity and Audience*, Robert Kraut and Moira Burke (ACM - 12/15) |  
+> Oct 18  |                 | **Fall Break** |
+> Oct 20  |                 | **EXAM I - Part II Discussion** |
+> Oct 25  |                 | **EXAM I - Part II Due** |
+> Oct 25,27 | *Autonomous Cars* <br /> Dan McMillen |  |  
+> Nov 1,3   | *Communication Skills of Computing Professionals* <br /> Anna Schmedding |  |  
+> Nov 8,10  | *Piracy* <br /> Sam Scalco |  |  
+> Nov 15,17 | *AI* <br /> Alex Keperling |  |  
+> Nov 29, Dec 1 | *Ethical Hacking* <br /> Michael Corso |  |  
 
 
 
