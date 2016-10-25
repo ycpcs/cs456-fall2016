@@ -30,7 +30,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Oct 18  |                 | **Fall Break** |
 > Oct 20  |                 | **EXAM I - Part II Discussion** |
 > Oct 25  |                 | **EXAM I - Part II Due** |
-> Oct 25,27 | *Autonomous Cars* <br /> Dan McMillen |  |  
+> Oct 25,27 | *Autonomous Cars* <br /> Dan McMillen | [Controversy and intrigue fuel conversation around Google's self-driving car](https://www.proopinion.com/en/blog/controversy-and-intrigue-fuel-conversation-around-googles-selfdriving-car) <br /> [Autonomous Vehicles Need In-Cabin Cameras to Monitor Drivers](http://spectrum.ieee.org/cars-that-think/transportation/self-driving/autonomous-vehicles-need-incabin-cameras-to-monitor-drivers) <br /> [Tesla’s Autopilot Suffers Technical Glitches Both On And Off Road](http://glitch.news/2015-10-22-teslas-autopilot-suffers-technical-glitches-both-on-and-off-road.html) <br /> [Who’s Responsible when a Driverless Car Crashes? Tesla’s Got an Idea](http://www.wsj.com/articles/tesla-electric-cars-soon-to-sport-autopilot-functions-such-as-passing-other-vehicles-1431532720) <br /> [Who is responsible when Tesla Autopilot results in a crash?](http://www.teslarati.com/responsible-tesla-autopilot-crash-accidents/) |  
 > Nov 1,3   | *Communication Skills of Computing Professionals* <br /> Anna Schmedding |  |  
 > Nov 8,10  | *Piracy* <br /> Sam Scalco |  |  
 > Nov 15,17 | *AI* <br /> Alex Keperling |  |  
