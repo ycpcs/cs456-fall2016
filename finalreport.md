@@ -3,7 +3,7 @@ layout: default
 title: "Final Report"
 ---
 
-**Due: TBD**
+**Due: Dec 20 by 5pm**
 
 The topic of this paper is any area of interest concerning an ethical issue related to software engineering or technology. The purpose is to research a particular example and discuss the impact of the issue on both the industry and society as a whole.
 
