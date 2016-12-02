@@ -21,6 +21,13 @@ All information about the course will be posted here.
 * **Sept 6 - NO CLASS**
 * **Sept 20** - Exam 1a Discussion
 * **Sept 23 - Exam 1a Due - 5pm**
+* **Oct 18 - NO CLASS, FALL BREAK**
+* **Oct 20** - Exam 1b Discussion
+* **Oct 25 - Exam 1b Due**
+* **Nov 24 - NO CLASS, THANKSGIVING BREAK**
+* **Dec 6** - Exam 2 Discussion
+* **Dec 9 - Exam 2 Due by 5pm**
+* **Dec 20 - Final Report Due by 5pm**
 
 
 
